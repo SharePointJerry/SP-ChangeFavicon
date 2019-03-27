@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="Changefavicon"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="13ceeafe-32af-42ff-8683-3269b53a0619"
+        ClientSideComponentProperties="{&quot;favicon&quot;:&quot;https://m365x783113.sharepoint.com/sites/Appcatalog/SiteAssets/favicon/google.ico&quot;}"> 
+    </CustomAction>
+</Elements>
